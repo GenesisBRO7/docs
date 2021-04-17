@@ -1,6 +1,6 @@
 ---
 id: adding_rythm
-title: Adding Rythm
+title: Adddee Rythm
 ---
 
 import Tabs from '@theme/Tabs';
